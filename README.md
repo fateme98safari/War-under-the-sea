@@ -12,7 +12,11 @@ This project is written in Python version 3.10.8
 
 I have used the [arcade](https://api.arcade.academy/en/latest/) library for this game
 
-![screenshot](my-project\session14\mo.png)
+
+![screenshot](mo.png)
+
+
+
 
 
 ### **Usage**
